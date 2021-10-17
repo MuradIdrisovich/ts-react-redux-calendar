@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ts-react-redux-calendar/static/css/main.72ae09ed.chunk.css",
+    "main.css": "/ts-react-redux-calendar/static/css/main.9c7ecc91.chunk.css",
     "main.js": "/ts-react-redux-calendar/static/js/main.079fce0f.chunk.js",
     "main.js.map": "/ts-react-redux-calendar/static/js/main.079fce0f.chunk.js.map",
     "runtime-main.js": "/ts-react-redux-calendar/static/js/runtime-main.69f6b474.js",
@@ -10,14 +10,14 @@
     "static/js/2.7f604cf6.chunk.js.map": "/ts-react-redux-calendar/static/js/2.7f604cf6.chunk.js.map",
     "index.html": "/ts-react-redux-calendar/index.html",
     "static/css/2.83a79fa7.chunk.css.map": "/ts-react-redux-calendar/static/css/2.83a79fa7.chunk.css.map",
-    "static/css/main.72ae09ed.chunk.css.map": "/ts-react-redux-calendar/static/css/main.72ae09ed.chunk.css.map",
+    "static/css/main.9c7ecc91.chunk.css.map": "/ts-react-redux-calendar/static/css/main.9c7ecc91.chunk.css.map",
     "static/js/2.7f604cf6.chunk.js.LICENSE.txt": "/ts-react-redux-calendar/static/js/2.7f604cf6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.69f6b474.js",
     "static/css/2.83a79fa7.chunk.css",
     "static/js/2.7f604cf6.chunk.js",
-    "static/css/main.72ae09ed.chunk.css",
+    "static/css/main.9c7ecc91.chunk.css",
     "static/js/main.079fce0f.chunk.js"
   ]
 }
