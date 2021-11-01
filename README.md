@@ -1,1 +1,1 @@
-https://muradidrisovich.github.io/ts-react-redux-calendar/   TS-React-redux-antdesign-calendar - приложение в котором реализован логин пользователей, навигация, создание и удаление событий в календаре, которые хранятся в localStorage.
+https://muradidrisovich.github.io/ts-react-redux-calendar/   TS-React-redux-antdesign-calendar - приложение в котором реализован логин пользователей, навигация(react-router), создание, хранение(localStorage) и удаление событий в календаре.
